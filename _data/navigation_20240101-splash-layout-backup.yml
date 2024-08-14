@@ -1,0 +1,269 @@
+# example navigation
+foo:
+  - title: "Parent Link 1"
+    url: /parent-1-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+  - title: "Parent Link 2"
+    url: /parent-2-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+      - title: "Child Link 3"
+        url: /child-3-page-url/
+
+
+# main links
+main:
+  - title: "首页"
+    url: /
+  - title: "关于"
+    url: /about/
+  - title: "博客"
+    url: /year-archive/
+  - title: "分类"
+    url: /categories/
+  - title: "缠论108课"
+    url: /chanlun/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  - title: "Quick Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+
+# documentation links
+108:
+  - title: "000-引言！"
+    url: /chanlun/
+  - title: 心态篇
+    children:
+      - title: "080-市场没有同情、不信眼泪"
+        url: /chanlun/080/
+      - title: "042-有些人是不适合参与市场的"
+        url: /chanlun/042/
+      - title: "096-无处不在的赌徒心理"
+        url: /chanlun/096/
+      - title: "105-远离聪明、机械操作"
+        url: /chanlun/105/
+      - title: "001-不会赢钱的经济人，只是废人！"
+        url: /chanlun/001/
+      - title: "002-没有庄家，有的只是赢家和输家！"
+        url: /chanlun/002/
+      - title: "003-你的喜好，你的死亡陷阱！"
+        url: /chanlun/003/
+      - title: "005-市场无须分析，只要看和干！"
+        url: /chanlun/005/
+      - title: "023-市场与人生"
+        url: /chanlun/023/
+      - title: "034-宁当面首莫成怨男"
+        url: /chanlun/034/
+      - title: "009-甄别“早泄”男的数学原则！"
+        url: /chanlun/009/
+      - title: "019-学习缠中说禅技术分析理论的关键"
+        url: /chanlun/019/
+      - title: "094-当机立断"
+        url: /chanlun/094/
+      - title: "095-修炼自己"
+        url: /chanlun/095/
+      - title: "007-给赚了指数亏了钱的一些忠告"
+        url: /chanlun/007/
+      - title: "103-学屠龙术前先学好防狼术"
+        url: /chanlun/103/
+  - title: 策略篇
+    children:
+      - title: "045-持股与持币，两种最基本的操作"
+        url: /chanlun/045/
+      - title: "010-2005年6月，本ID为何时隔四年后重看股票"
+        url: /chanlun/010/
+      - title: "016-中小资金的高效买卖法"
+        url: /chanlun/016/
+      - title: "049-利润率最大的操作模式"
+        url: /chanlun/049/
+      - title: "013-不带套的操作不是好操作"
+        url: /chanlun/013/
+      - title: "026-市场风险如何回避"
+        url: /chanlun/026/
+      - title: "031-资金管理的最稳固基础"
+        url: /chanlun/031/
+      - title: "032-走势的当下与投资者的思维方式"
+        url: /chanlun/032/
+      - title: "041-没有节奏，只有死"
+        url: /chanlun/041/
+      - title: "046-每日走势的分类"
+        url: /chanlun/046/
+      - title: "047-一夜情行情分析"
+        url: /chanlun/047/
+      - title: "048-暴跌，牛市行情的一夜情"
+        url: /chanlun/048/
+      - title: "050-操作中的一些细节问题"
+        url: /chanlun/050/
+      - title: "055-买之前戏，卖之高潮"
+        url: /chanlun/055/
+      - title: "008-投资如选面首，G点为中心，拒绝ED男"
+        url: /chanlun/008/
+      - title: "068-走势预测的精确意义"
+        url: /chanlun/068/
+      - title: "073-市场获利机会的绝对分类"
+        url: /chanlun/073/
+      - title: "074-如何躲避政策性风险"
+        url: /chanlun/074/
+      - title: "092-中枢震荡的监视器"
+        url: /chanlun/092/
+      - title: "106-均线、轮动与缠中说禅板块强弱指标 "
+        url: /chanlun/106/
+      - title: "107-如何操作短线反弹"
+        url: /chanlun/107/
+      - title: "108-何谓底部？从月线看中期走势演化"
+        url: /chanlun/108/
+      - title: "030-缠中说禅理论的绝对性"
+        url: /chanlun/030/
+      - title: "084-本理论一些必须注意的问题"
+        url: /chanlun/084/
+  - title: 示例篇
+    children:
+      - title: "004-什么是理性？今早买N中工就是理性！"
+        url: /chanlun/004/
+      - title: "006-本ID如何在五粮液、包钢权证上提款的"
+        url: /chanlun/006/
+      - title: "056-530印花税当日行情图解"
+        url: /chanlun/056/
+      - title: "054-一个具体走势的分析"
+        url: /chanlun/054/
+      - title: "057-当下图解分析再示范"
+        url: /chanlun/057/
+      - title: "058-图解分析示范三"
+        url: /chanlun/058/
+      - title: "059-图解分析示范四"
+        url: /chanlun/059/
+      - title: "060-图解分析示范五"
+        url: /chanlun/060/
+      - title: "061-区间套定位标准图解（分析示范六）"
+        url: /chanlun/061/
+      - title: "028-下一目标：摧毁基金"
+        url: /chanlun/028/
+      - title: "051-短线股评荐股者的传销把戏"
+        url: /chanlun/051/
+      - title: "066-主力资金的食物链"
+        url: /chanlun/066/
+      - title: "097-中医、兵法、诗歌、操作1"
+        url: /chanlun/097/
+      - title: "098-中医、兵法、诗歌、操作2"
+        url: /chanlun/098/
+      - title: "100-中医、兵法、诗歌、操作3"
+        url: /chanlun/100/
+      - title: "022-将8亿的大米装到5个庄家的肚里"
+        url: /chanlun/022/
+      - title: "075-逗庄家玩的一些杂史1"
+        url: /chanlun/075/
+      - title: "076-逗庄家玩的一些杂史2"
+        url: /chanlun/076/
+      - title: "085-逗庄家玩的一些杂史3"
+        url: /chanlun/085/
+      - title: "087-逗庄家玩的一些杂史4"
+        url: /chanlun/087/
+  - title: 均线系统
+    children:
+      - title: "052-炒股票就是真正的学"
+        url: /chanlun/052/
+      - title: "017-走势终完美"
+        url: /chanlun/017/
+      - title: "011-不会吻，无以高潮！"
+        url: /chanlun/011/
+      - title: "012-一吻何能消魂？"
+        url: /chanlun/012/
+      - title: "014-喝茅台的高潮程序！"
+        url: /chanlun/014/
+      - title: "015-没有趋势，没有背驰"
+        url: /chanlun/015/
+      - title: "024-MACD对背弛的辅助判断"
+        url: /chanlun/024/
+      - title: "025-吻，MACD、背弛、中枢"
+        url: /chanlun/025/
+      - title: "027-盘整背驰与历史性底部"
+        url: /chanlun/027/
+  - title: 递归系统
+    children:
+      - title: "102-再说走势必完美"
+        url: /chanlun/102/
+      - title: "101-答疑1"
+        url: /chanlun/101/
+      - title: "063-替各位理理基本概念"
+        url: /chanlun/063/
+      - title: "064-去机场路上给各位补课"
+        url: /chanlun/064/
+      - title: "062-分型、笔与线段"
+        url: /chanlun/062/
+      - title: "065-再说说分型、笔、线段"
+        url: /chanlun/065/
+      - title: "067-线段的划分标准"
+        url: /chanlun/067/
+      - title: "069-月线分段与上海大走势分析、预判"
+        url: /chanlun/069/
+      - title: "071-线段划分标准的再分辨"
+        url: /chanlun/071/
+      - title: "077-一些概念的再分辨"
+        url: /chanlun/077/
+      - title: "078-继续说线段的划分"
+        url: /chanlun/078/
+      - title: "081-图例、更正及分型、走势类型的哲学本质"
+        url: /chanlun/081/
+      - title: "083-笔-线段与线段-最小中枢结构的不同心理意义1"
+        url: /chanlun/083/
+      - title: "018-不被面首的雏男是不完美的"
+        url: /chanlun/018/
+      - title: "020-缠中说禅走势中枢级别扩张及第三类买卖点"
+        url: /chanlun/020/
+      - title: "021-缠中说禅买卖点分析的完备性"
+        url: /chanlun/021/
+      - title: "053-三类买卖点的再分辨"
+        url: /chanlun/053/
+      - title: "029-转折的力度与级别"
+        url: /chanlun/029/
+      - title: "037-背驰的再分辨"
+        url: /chanlun/037/
+      - title: "043-有关背驰的补习课"
+        url: /chanlun/043/
+      - title: "044-小级别背驰引发大级别转折"
+        url: /chanlun/044/
+      - title: "104-几何结构与能量动力结构1"
+        url: /chanlun/104/
+  - title: 走势生长
+    children:
+      - title: "033-走势的多义性"
+        url: /chanlun/033/
+      - title: "035-给基础差的同学补补课"
+        url: /chanlun/035/
+      - title: "036-走势类型连接结合性的简单运用"
+        url: /chanlun/036/
+      - title: "038-走势类型连接的同级别分解"
+        url: /chanlun/038/
+      - title: "039-同级别分解再研究"
+        url: /chanlun/039/
+      - title: "040-同级别分解的多重赋格研究"
+        url: /chanlun/040/
+      - title: "070-一个教科书式走势的示范分析"
+        url: /chanlun/070/
+      - title: "086-走势分析中必须杜绝一根筋思维"
+        url: /chanlun/086/
+      - title: "079-分型的辅助操作与一些问题的再解答"
+        url: /chanlun/079/
+      - title: "082-分型结构的心理因素"
+        url: /chanlun/082/
+      - title: "088-图形生长的一个具体案例"
+        url: /chanlun/088/
+      - title: "089-中阴阶段的具体分析"
+        url: /chanlun/089/
+      - title: "090-中阴阶段结束时间的辅助判断"
+        url: /chanlun/090/
+      - title: "093-走势结构的两重表里关系2"
+        url: /chanlun/093/
+      - title: "099-走势结构的两重表里关系3"
+        url: /chanlun/099/
+
+
+
