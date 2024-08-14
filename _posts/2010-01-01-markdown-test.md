@@ -5,8 +5,8 @@ permalink:
 collection: 
 excerpt: "markdown语法练习"
 # author_profile: true
-toc: ture
-toc_sticky: true
+# toc: ture
+# toc_sticky: true
 sidebar:
   - title: 
     nav: XXX
@@ -50,15 +50,21 @@ sidebar:
 
 ### 插入视频
 
-<!-- 21:9 aspect ratio -->
-<div class="embed-responsive embed-responsive-21by9">
-  <iframe class="embed-responsive-item" src="http://money.olim.ca/assets/video/blooming.mp4"></iframe>
-</div>
-
 <!-- 16:9 aspect ratio -->
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="http://money.olim.ca/assets/video/blooming.mp4"></iframe>
 </div>
+
+<iframe 
+src="/assets/images/blooming.mp4" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
 
 <!-- 1:1 aspect ratio -->
 <div class="embed-responsive embed-responsive-1by1">
