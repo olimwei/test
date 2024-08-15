@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "欧耶AI"
-excerpt: "欧耶AI的的学习思考和实践"
+excerpt: "欧耶AI的学习思考和实践"
 layout: splash
 header:
   overlay_color: "#5e616c"
@@ -22,7 +22,13 @@ layouts_gallery:
 
 ### 缘起：
 
+不做无聊之事，何遣有生之涯。
+
 折腾，一新的语言，一新的乐器，一新的朋友。。。。
+
+何谓人工智能？ **AI=人工智能=人工+智能**。。。。
+
+不就是一个还活着的,有点智力,能做点事的人嘛。。。
 
 {% include gallery id="layouts_gallery" caption="这里放三张照片占个位置，以后慢慢想想放什么好玩的图片。😄" %}
 
