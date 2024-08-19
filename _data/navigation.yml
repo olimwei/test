@@ -31,8 +31,17 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-
 # documentation links
+blog:
+  - title: "提醒"
+    url: /tags/notes/
+  - title: "想和干"
+    children:
+      - title: "想"
+        url: /thoughts/
+      - title: "干"
+        url: /practice/
+
 XXX:
   - title: "XXX首页"
     url: /

@@ -14,6 +14,9 @@ tags:
   - Seaborn
   - Plotly
   - Bokeh
+sidebar:
+  - title: 
+    nav: blog
 ---
 
 Python中常用的数据可视化与交互式分析工具，包括Matplotlib、Seaborn、Plotly和Bokeh。
