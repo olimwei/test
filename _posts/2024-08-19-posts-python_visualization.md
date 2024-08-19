@@ -1,5 +1,5 @@
 ---
-title: "在git提交的时候去掉隐藏文件DSStore"
+title: "Python中常用的数据可视化与交互式分析工具"
 layout: blog
 excerpt: "Python中常用的数据可视化与交互式分析工具，包括Matplotlib、Seaborn、Plotly和Bokeh。"
 read_time: true
