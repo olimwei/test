@@ -1,7 +1,7 @@
 ---
-title: "学用yfinance"
+title: "python用yfinance抓取数据"
 layout: blog
-excerpt: "学用yfinance"
+excerpt: "yfinance是利用雅虎财经的数据模块，可以作为一个用python分析美股的数据来源。"
 read_time: true
 comments: true
 share: true

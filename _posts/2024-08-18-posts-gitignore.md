@@ -24,5 +24,5 @@ categories:
 
 还可以做一个全局设置，一劳永逸。方法如下：
 1. 创建一个全局文件 ～/.gitignore_global
-2. 把下面内容写入：`echo ".DS_Store" >> ～/.gitignore_global`, `echo "._.DS_Store" >> ～/.gitignore_global`, ``echo "**/.DS_Store" >> ～/.gitignore_global`, `echo "**/._.DS_Store" >> ～/.gitignore_global`.
+2. 把下面内容写入：`echo ".DS_Store" >> ～/.gitignore_global`, `echo "._.DS_Store" >> ～/.gitignore_global`, `echo "**/.DS_Store" >> ～/.gitignore_global`, `echo "**/._.DS_Store" >> ～/.gitignore_global`.
 3. 再全局设置一下：`git config --global core.excludesfile ~/.gitignore_global`
