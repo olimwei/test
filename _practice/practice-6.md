@@ -1,5 +1,7 @@
 ---
 title: "practice-6"
+layout: splash
+classes: wide
 excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg

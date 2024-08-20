@@ -76,6 +76,23 @@ width=800>
 > 1. 引用内容里包括的列表1
 > 2. 引用内容里包括的列表2
 
+### 在markdown原始文档里加不在网页显示的备注：
+{::comment}用实际的目录替换test{:/comment}
+看不到上面一段话就对了😄。
+
+### 代码引用 fenced code blocks
+代码上下行用三个\`。在最上面三个\`后面可以加上程序语言的类型，如python or others。
+```python
+import bokeh as bk
+
+from bokeh.plotting import figure, show
+p = figure(width=400, height=400)
+
+p.scatter([1, 2, 3, 4, 5], [6, 7, 2, 4, 5], size=20, color="navy", alpha=0.5)
+
+show(p)
+```
+
 ### 表格的制作
 
 | 第二栏目居右 | 第二栏目居左居左 | 第三栏目居中居中居中居中居中居中 |
@@ -104,9 +121,15 @@ Here is a simple footnote[^2].
 [^2]: My reference.
 
 ### 高亮选择的段落 （检查是否正确显示）
-用<mark>mark</mark>语言 （这个可以）
+1. 用<mark>mark</mark>语言 （这个可以）
 
 我需要<mark>高亮这几个字</mark>。
+
+2. 用style来改变背景颜色
+我需要<mark style="background-color: #FF2C2C">高亮这几个字在红色背景上</mark>。
+
+3. 用div加style方式（整个一段）
+<div style="background-color: #008000">绿色背景高亮这段文字。</div>
 
 ### 几种底色形式的notice
 

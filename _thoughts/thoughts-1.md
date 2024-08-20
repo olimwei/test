@@ -1,5 +1,7 @@
 ---
 title: "Thoughts-1"
+layout: splash
+classes: wide
 excerpt: "The Lhasa Apso is a non-sporting dog breed originating in Tibet."
 ---
 

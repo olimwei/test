@@ -8,4 +8,4 @@ classes: wide
 author_profile: true
 ---
 
-Sample document listing for the collection `_thought`.
+这里临时放一些在 `_thoughts`下的测试网页。
