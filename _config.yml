@@ -322,3 +322,6 @@ collections:
   practice:
     output: true
     permalink: /:collection/:path/
+  pages:
+    output: true
+    permalink: /:collection/:path/
