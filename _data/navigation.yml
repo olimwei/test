@@ -32,9 +32,7 @@ main:
   #   url: /sitemap/
 
 # documentation links
-blog:
-  - title: "提醒"
-    url: /tags/notes/
+collections:
   - title: "想和干"
     children:
       - title: "想"

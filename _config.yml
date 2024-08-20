@@ -300,9 +300,9 @@ compress_html:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-      related: true
+  #   share: true
+  #   comments: true
+  #   related: true
   # _thoughts
   - scope:
       path: "_thoughts"
@@ -310,9 +310,9 @@ compress_html:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-      related: true
+  #   share: true
+  #   comments: true
+  #   related: true
 
 # Collections
 collections:

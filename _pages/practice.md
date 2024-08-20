@@ -1,6 +1,6 @@
 ---
 title: Practice
-layout: posts
+layout: collection
 permalink: /practice/
 collection: practice
 entries_layout: grid
