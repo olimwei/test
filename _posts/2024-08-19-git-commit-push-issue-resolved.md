@@ -12,9 +12,6 @@ categories:
 tags:
   - git
   - issue
-sidebar:
-  - title: 
-    nav: collections
 ---
 
 周末把上周跟踪的股票每日复盘汇总成一个post，忘记上传服务器，今天想起来，在vs code里赶紧常规点击commit and push，不曾想居然出现了问题。`RPC failed; HTTP 400 curl 22 The requested URL returned error: 400`。傻眼了，这哪里是我能知道解决的事啊。。。马上采取了最原始暴力的办法，把新加的文件易到另外一个目录，然后把整个项目的folder删除，重新从服务器clone下载到本地电脑，再把新文件放回到该在的地方，再次重复以往的动作。。。还是不行。。。

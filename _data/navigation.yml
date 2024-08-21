@@ -24,12 +24,12 @@ main:
     url: /
   - title: "关于"
     url: /about/
-  # - title: "实践"
-  #   url: /practice/
-  # - title: "想法"
-  #   url: /thoughts/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "想"
+    url: /thoughts/  
+  - title: "干"
+    url: /practice/
+  #- title: "Sitemap"
+  #  url: /sitemap/
 
 # documentation links
 collections:
