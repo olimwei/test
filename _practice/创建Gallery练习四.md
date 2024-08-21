@@ -4,7 +4,7 @@ layout: splash
 classes: wide
 excerpt: "创建Gallery练习四"
 header:
-  image: /assets/album/缠图欣赏202407/20240411-SPX-hour.png
+  image: /assets/album/缠图欣赏/20240411-SPX-hour.png
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 ---
 
