@@ -324,10 +324,10 @@ collections:
     permalink: /:collection/:path/
  
 # mini_magick to create thumb images 
-mini_magick:
-    photoFolders:
-        source: /assets/gallery
-        destination: /assets/thumbnails/gallery
-        resize: "300x300^"
-        gravity: "center"
-        extent: "300x300"
+# mini_magick:
+#     photoFolders:
+#         source: /assets/gallery
+#         destination: /assets/thumbnails/gallery
+#         resize: "300x300^"
+#         gravity: "center"
+#         extent: "300x300"
