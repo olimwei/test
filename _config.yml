@@ -329,5 +329,5 @@ mini_magick:
         source: /assets/gallery
         destination: /assets/thumbnails/gallery
         resize: "300x300^"
-        gravity: # "center"
-        extent: # "300x300"
+        gravity: "center"
+        extent: "300x300"
