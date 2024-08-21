@@ -1,10 +1,10 @@
 ---
-title: "创建Gallery"
+title: "创建Gallery-3"
 layout: splash
 classes: wide
 excerpt: "创建一个Gallery"
 header:
-  image: /assets/images/unsplash-gallery-image-3.jpg
+  image:
   teaser: assets/images/unsplash-gallery-image-3-th.jpg
 ---
 
