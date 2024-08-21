@@ -4,11 +4,11 @@ layout: splash
 classes: wide
 excerpt: "创建Gallery练习四"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
+  image: /assets/album/缠图欣赏202407/20240411-SPX-hour.png
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 ---
 
-gallery 2 
+gallery 4
 
 注意：这个模版不带sidebar。也无法设置sidebar。
 
@@ -16,8 +16,7 @@ gallery 2
 
 {::comment}用实际的目录替换test{:/comment}
 
-{% include image-gallery.html folder="/assets/album/test" %} 
+{% include image-gallery.html folder="/assets/album/缠图欣赏202407" %} 
 
- 又一种创建Gallery的方式。直接把文件放在Gallery目录里的Album目录下，自动创建缩略图，并创建一个展示album网页。。。看看行不行。哈哈。。。。遇到点小问题。
 
 
