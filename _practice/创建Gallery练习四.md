@@ -16,7 +16,7 @@ gallery 4
 
 {::comment}用实际的目录替换test{:/comment}
 
-{% include image-gallery.html folder="/assets/album/缠图欣赏202407" %} 
+{% include image-gallery.html folder="/assets/album/缠图欣赏" %} 
 
 
 
