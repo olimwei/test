@@ -1,0 +1,13 @@
+---
+title: "创建Gallery"
+layout: splash
+classes: wide
+excerpt: "创建一个Gallery"
+header:
+  image: /assets/images/unsplash-gallery-image-1.jpg
+  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+---
+
+再次创建一个Gallery。
+
+{% include image-gallery.html folder="/assets/album/album3" %} 
